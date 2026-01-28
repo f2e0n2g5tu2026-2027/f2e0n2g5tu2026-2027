@@ -1,6 +1,7 @@
+https://cpc.people.com.cn/BIG5/n1/2026/0125/c64387-40652089.html
+
 ## Hi there 👋
 
-<!--
 **f2e0n2g5tu2026-2027/f2e0n2g5tu2026-2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 
